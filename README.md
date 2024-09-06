@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @navis-ia
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning full stack program
+- 💞️ I’m looking to collaborate in projects
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I´m a student full stack program and music production
